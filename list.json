@@ -1,0 +1,76 @@
+{
+  "name": "MMFinance Default List",
+  "timestamp": "2021-11-09T00:00:00Z",
+  "version": { "major": 3, "minor": 0, "patch": 0 },
+  "tags": {
+    "mainnet": { "name": "mainnet", "description": "mainnet tokens" },
+    "testnet": { "name": "testnet", "description": "testnet tokens" }
+  },
+  "logoURI": "https://polymm.finance/logo.png",
+  "keywords": ["mmfinnace", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped MATIC",
+      "symbol": "WMATIC",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "Mad Meerkat Finance Token",
+      "symbol": "MMF",
+      "address": "0x22a31bD4cB694433B6de19e0aCC2899E553e9481",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x22a31bD4cB694433B6de19e0aCC2899E553e9481.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "./images/tokens/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "./images/tokens/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "WETH Token",
+      "symbol": "WETH",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "chainId": 137,
+      "decimals": 8,
+      "logoURI": "./images/tokens/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "MM Optimiser Token",
+      "symbol": "MMO",
+      "address": "0x859a50979fdB2A2fD8Ba1AdCC66977C6f6b1CD5B",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x859a50979fdB2A2fD8Ba1AdCC66977C6f6b1CD5B.png",
+      "tags": ["mainnet"]
+    }
+  ]
+}
